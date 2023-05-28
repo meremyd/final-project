@@ -1,0 +1,404 @@
+﻿body
+{
+	background-color: #eed9c4;
+      
+}
+table{
+  border-collapse: separate;
+  border-spacing: 3px;
+  width: auto;
+  height: 50px;
+}
+
+td{
+  position: relative;
+  padding: 2px;
+  padding-top: 0px;
+  height: 80px;
+  border: 2px solid black;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 10px;
+}
+.home {
+  color: #eed9c4;
+  background: #bdab98;
+  margin-top: 5px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 2%;
+}
+.number
+{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 6px;
+	text-align: left;
+	color: dimgray;
+	margin-top: -3px;
+}
+.elements{
+  border: none;
+}
+.elementh{
+  background-color: #C56E90;
+  font-size: 14px;
+  border-color: #451926;
+  font-weight: 550;
+  color: #451926;
+}
+.elementh:hover {
+  background: linear-gradient(to bottom, #c56e90 0%, #ffffff 100%);
+}
+
+.element_alkali{
+  background-color: #D0B3DD;
+  font-size: 14px;
+  border-color: #371F76;
+  font-weight: 550;
+  color: #371F76;
+}
+.element_alkali:hover {
+  background: linear-gradient(to bottom, #371f76 0%, #ffffff 100%);
+}
+.element_transitionmetal{
+  background-color: #A3D6F0;
+  font-size: 14px;
+  border-color: #194569;
+  font-weight: 550;
+  color: #194569;
+}
+.element_transitionmetal:hover {
+  background: linear-gradient(to bottom, #88aed0 0%, #ffffff 100%);
+}
+.element_semimetal{
+  background-color: #93CFA4;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #253e23;
+  color: #253e23;
+}
+.element_semimetal:hover {
+  background: linear-gradient(to bottom, #93cfa4 0%, #ffffff 100%);
+}
+.element_noblegas{
+  background-color: #FEBE93;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #945931;
+  color: #945931;
+}
+.element_noblegas:hover {
+  background: linear-gradient(to bottom, #febe93 0%, #ffffff 100%);
+}
+.element_halogen{
+  background-color: #FFEFC2;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #bda55d;
+  color: #bda55d;
+}
+.element_halogen:hover {
+  background: linear-gradient(to bottom, #ffefc2 0%, #ffffff 100%);
+}
+.element_nonmetal{
+  background-color: #C56E90;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #451926;
+  color: #451926;
+}
+.element_nonmetal:hover {
+  background: linear-gradient(to bottom, #c56e90 0%, #ffffff 100%);
+}
+.element_alkalineearth{
+  background-color: #bdab98;
+  font-size: 14px;
+  border-color: #403429;
+  font-weight: 550;
+  color: #403429;
+}
+.element_alkalineearth:hover {
+  background: linear-gradient(to bottom, #bdab98 0%, #ffffff 100%);
+}
+.element_basicmetal{
+  background-color: #C4B5FF;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #643B9f;
+  color: #643B9f;
+}
+.element_basicmetal:hover {
+  background: linear-gradient(to bottom, #c4b5ff 0%, #ffffff 100%);
+}
+.element_lanthanide{
+  background-color: #C9FFC2;
+  font-size: 14px;
+  font-weight: bold;
+  border-color: #477744;
+  color: #477744;
+}
+.element_lanthanide:hover {
+  background: linear-gradient(to bottom, #c9ffc2 0%, #ffffff 100%);
+}
+.element_actinide{
+  background-color: #FF9991;
+  font-size: 14px;
+  font-weight: bold;
+  border-color: #c03032;
+  color: #c03032;
+}
+.element_actinide:hover {
+  background: linear-gradient(to bottom, #ff9991 0%, #ffffff 100%);
+}
+.element_lanthanides{
+  background-color: #C9FFC2;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #477744;
+  color: #477744;
+}
+.element_lanthanides:hover {
+  background: linear-gradient(to bottom, #c9ffc2 0%, #ffffff 100%);
+}
+.element_actinides{
+  background-color: #FF9991;
+  font-size: 14px;
+  font-weight: 550;
+  border-color: #c03032;
+  color: #c03032;
+}
+.element_actinides:hover {
+  background: linear-gradient(to bottom, #ff9991 0%, #ffffff 100%);
+}
+
+/*.periodictable{
+  font-size: 10px;
+  color: white;
+  margin-left: 1000px;
+}*/
+
+.acronym{
+  font-size: 24px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+}
+
+.section1{
+  border: 1px solid transparent;
+  margin-top: 20px;
+  align-items:center;
+}
+.section2{
+  margin-top: 20px;
+  margin-left: 135px;
+  border: 3px solid transparent;
+  align-items:center;
+}
+
+.section3 {
+  margin-top: 50px;
+  width: 112%;
+  border: 3px solid;
+  margin-left: 220px;
+  font-size: 20px;
+  border-spacing: 10px;
+  align-items:center;
+}
+.elementgroup1{
+  background-color: #D0B3DD;
+  color: #371F76;
+  font-weight: bold;
+}
+.elementgroup1:hover {
+  background: linear-gradient(to bottom, #371f76 0%, #ffffff 100%);
+}
+.elementgroup2{
+  background-color: #bdab98;
+  color: #451926;
+  font-weight: bold;
+}
+.elementgroup2:hover {
+  background: linear-gradient(to bottom, #bdab98 0%, #ffffff 100%);
+}
+.elementgroup3{
+  background-color: #A3D6F0;
+  color: #194569;
+  font-weight: bold;
+}
+.elementgroup3:hover {
+  background: linear-gradient(to bottom, #88aed0 0%, #ffffff 100%);
+}
+.elementgroup4{
+  background-color: #C4B5FF;
+  color: #643B9f;
+  font-weight: bold;
+}
+.elementgroup4:hover {
+  background: linear-gradient(to bottom, #c4b5ff 0%, #ffffff 100%);
+}
+.elementgroup5{
+  background-color: #93CFA4;
+  color: #253e23;
+  font-weight: bold;
+}
+.elementgroup5:hover {
+  background: linear-gradient(to bottom, #93cfa4 0%, #ffffff 100%);
+}
+.elementgroup6{
+  background-color: #C56E90;
+  color: #451926;
+  font-weight: bold;
+}
+.elementgroup6:hover {
+  background: linear-gradient(to bottom, #c56e90 0%, #ffffff 100%);
+}
+.elementgroup7{
+  background-color: #FFEFC2;
+  color: #bda55d;
+  font-weight: bold;
+}
+.elementgroup7:hover {
+  background: linear-gradient(to bottom, #ffefc2 0%, #ffffff 100%);
+}
+.elementgroup8{
+  background-color: #FEBE93;
+  color: #945931;
+  font-weight: bold;
+}
+.elementgroup8:hover {
+  background: linear-gradient(to bottom, #febe93 0%, #ffffff 100%);
+}
+.elementgroup9{
+  background-color: #C9FFC2;
+  color: #477744;
+  font-weight: bold;
+}
+.elementgroup9:hover {
+  background: linear-gradient(to bottom, #c9ffc2 0%, #ffffff 100%);
+}
+.elementgroup10{
+  background-color: #FF9991;
+  color: #c03032;
+  font-weight: bold;
+}
+.elementgroup10:hover {
+  background: linear-gradient(to bottom, #ff9991 0%, #ffffff 100%);
+}
+.acronym1{
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #451926;
+  
+}
+.acronym2{
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #371F76;
+
+}
+.acronym3 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #194569;
+}
+.acronym4 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #403429;
+}
+.acronym5 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #253e23;
+}
+.acronym6 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #643B9f;
+}
+.acronym7 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #bda55d;
+}
+.acronym8 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #945931;
+}
+.acronym9 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #477744;
+
+}
+.acronym10 {
+  font-size: 25px;
+  padding: -3px;
+  font-weight: bold;
+  margin-bottom: -1px;
+  margin-top: -5px;
+  color: #c03032;
+}
+.animate-charcter{
+  text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #bdab98 0%,
+    #A3D6F0 29%,
+    #93CFA4 67%,
+    #FEBE93 100%
+  );
+  background-size:  auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: green;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+  font-size: 45px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+.container{
+  text-align: center;
+  margin-left: 390px;
+}
+
+
